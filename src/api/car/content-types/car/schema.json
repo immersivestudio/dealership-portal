@@ -154,12 +154,6 @@
       "type": "integer",
       "required": true
     },
-    "tag": {
-      "type": "relation",
-      "relation": "manyToOne",
-      "target": "api::tag.tag",
-      "inversedBy": "cars"
-    },
     "transmission": {
       "pluginOptions": {
         "i18n": {
