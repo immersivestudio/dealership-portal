@@ -4,7 +4,8 @@
   "info": {
     "singularName": "showroom",
     "pluralName": "showrooms",
-    "displayName": "Showroom"
+    "displayName": "Showroom",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
