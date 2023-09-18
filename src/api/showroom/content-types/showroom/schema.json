@@ -89,12 +89,8 @@
       }
     },
     "cover": {
-      "type": "media",
-      "multiple": false,
+      "type": "string",
       "required": true,
-      "allowedTypes": [
-        "images"
-      ],
       "pluginOptions": {
         "i18n": {
           "localized": true
@@ -196,12 +192,8 @@
       "required": true
     },
     "image_slider": {
-      "type": "media",
-      "multiple": true,
+      "type": "json",
       "required": false,
-      "allowedTypes": [
-        "images"
-      ],
       "pluginOptions": {
         "i18n": {
           "localized": true
